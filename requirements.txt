@@ -2,4 +2,3 @@
 uvicorn
 numpy
 torch
-pygame
